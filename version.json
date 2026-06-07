@@ -1,0 +1,11 @@
+{
+    "version": "1.6",
+    "title": "Major Billing Update",
+    "description": [
+        "Advanced Purchase Module",
+        "Improved Billing Page",
+        "Faster Inventory Loading",
+        "New Reports System"
+    ],
+    "installer_url": "https://github.com/USERNAME/REPO/releases/download/v1.6/AutomateSetup.exe"
+}
