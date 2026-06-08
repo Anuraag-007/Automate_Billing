@@ -1,5 +1,5 @@
 {
-    "version": "1.6",
+    "version": "1.7",
     "title": "Major Billing Update",
     "description": [
         "Advanced Purchase Module",
@@ -7,5 +7,5 @@
         "Faster Inventory Loading",
         "New Reports System"
     ],
-    "installer_url": "https://github.com/Anuraag-007/Automate_Billing/releases/download/v1.6/Automate_Setup.exe"
+    "installer_url": "https://github.com/Anuraag-007/Automate_Billing/releases/download/v1.7/Automate_Setup.exe"
 }
